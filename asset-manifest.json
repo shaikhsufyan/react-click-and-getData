@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-click-and-getData/static/css/main.277ecffd.css",
+    "main.js": "/react-click-and-getData/static/js/main.553bd5b5.js",
+    "static/js/787.4d33dd78.chunk.js": "/react-click-and-getData/static/js/787.4d33dd78.chunk.js",
+    "static/media/tb1.jpg": "/react-click-and-getData/static/media/tb1.f5670511f50d622244d3.jpg",
+    "static/media/tb2.jpg": "/react-click-and-getData/static/media/tb2.ff7e7451e10fac115d39.jpg",
+    "static/media/tb4.jpg": "/react-click-and-getData/static/media/tb4.7ba0880beabb3c0e53ab.jpg",
+    "static/media/l4.webp": "/react-click-and-getData/static/media/l4.f598fc562f669c03ffe1.webp",
+    "static/media/l5.webp": "/react-click-and-getData/static/media/l5.7a04885a94c62efe622e.webp",
+    "static/media/M1.webp": "/react-click-and-getData/static/media/M1.6545568c304a6b5ce2a7.webp",
+    "static/media/M3.webp": "/react-click-and-getData/static/media/M3.6545568c304a6b5ce2a7.webp",
+    "static/media/l2.webp": "/react-click-and-getData/static/media/l2.e2c34bd61d35796d32e2.webp",
+    "static/media/M2.webp": "/react-click-and-getData/static/media/M2.9c36b1f9324a3bf50800.webp",
+    "static/media/l3.webp": "/react-click-and-getData/static/media/l3.b5492cda021bff57ab01.webp",
+    "index.html": "/react-click-and-getData/index.html",
+    "main.277ecffd.css.map": "/react-click-and-getData/static/css/main.277ecffd.css.map",
+    "main.553bd5b5.js.map": "/react-click-and-getData/static/js/main.553bd5b5.js.map",
+    "787.4d33dd78.chunk.js.map": "/react-click-and-getData/static/js/787.4d33dd78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277ecffd.css",
+    "static/js/main.553bd5b5.js"
+  ]
+}
